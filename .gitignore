@@ -1,0 +1,4 @@
+config.ini
+output/*
+*.session
+__pycache__/*
